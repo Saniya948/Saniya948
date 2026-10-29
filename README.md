@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I'm currently working on **data analytics projects in Python & SQL** and my entry for the **Meta Global AI Developer Hackathon**<br>- 💬 Ask me about **web scraping, EDA, sentiment analysis, KNN classifiers, and rule-based chatbots**<br>### 💼 Experience<br>- **AI Track Intern, Decode Labs (2026)**: KNN classifier, rule-based chatbot, tech stack recommender<br>- **Data Analytics Intern, CodeAlpha**: web scraping, EDA, data visualization, sentiment analysis ([repo](https://github.com/Saniya948/CodeAlpha_DataAnalytics))
+- 🔭 I'm currently working on **data analytics projects in Python & SQL** and my entry for the **Meta Global AI Developer Hackathon**<br>- 💬 Ask me about **web scraping, EDA, sentiment analysis, KNN classifiers, and rule-based chatbots**<br> 💼 Experience<br>- **AI Track Intern, Decode Labs (2026)**: KNN classifier, rule-based chatbot, tech stack recommender<br>- **Data Analytics Intern, CodeAlpha**: web scraping, EDA, data visualization, sentiment analysis ([repo](https://github.com/Saniya948/CodeAlpha_DataAnalytics))
 
 
 ## 🌐 Socials:
